@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KakaoMapAPI</string>
+    <string name="kakao_map_api_key">KEY</string>
+</resources>
